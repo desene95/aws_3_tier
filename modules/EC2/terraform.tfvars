@@ -1,0 +1,6 @@
+vpc_cidr = "10.90.0.0/21"
+websubnet = "10.90.1.0/24"
+appsubnet = "10.90.2.0/24"
+dbsubnet-1 = "10.90.3.0/24"
+dbsubnet-2 = "10.90.4.0/24"
+key_pair = "EC2Tutorial"
